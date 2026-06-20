@@ -1,0 +1,11 @@
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\bin\Debug\net10.0\Hotel.Models.deps.json
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\bin\Debug\net10.0\Hotel.Models.dll
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\bin\Debug\net10.0\Hotel.Models.pdb
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\Hotel.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\Hotel.Models.AssemblyInfoInputs.cache
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\Hotel.Models.AssemblyInfo.cs
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\Hotel.Models.csproj.CoreCompileInputs.cache
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\Hotel.Models.dll
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\refint\Hotel.Models.dll
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\Hotel.Models.pdb
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\ref\Hotel.Models.dll

@@ -16,3 +16,4 @@ C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.App\obj\Debu
 C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.App\obj\Debug\net10.0\Hotel.App.pdb
 C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.App\obj\Debug\net10.0\Hotel.App.genruntimeconfig.cache
 C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.App\obj\Debug\net10.0\ref\Hotel.App.dll
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.App\obj\Debug\net10.0\Hotel.App.sourcelink.json

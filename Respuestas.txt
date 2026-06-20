@@ -1,0 +1,62 @@
+Serie II
+
+El proyecto fue dividido en dos partes: una biblioteca de clases (Hotel.Models) y una aplicación de consola (Hotel.App).
+La clase Reserva almacena la información de cada reserva y calcula automáticamente la duración y el costo total.
+La clase Hotel administra una colección de reservas utilizando una lista (List<Reserva>) y sus métodos permiten registrar reservas, listarlas, calcular el ingreso total y obtener la reserva con mayor duración.
+Se utilizaron modificadores de acceso public para las clases y métodos que deben ser accesibles desde otros proyectos y private para proteger la lista de reservas.
+La aplicación principal crea reservas, las registra en el hotel y muestra los resultados por consola.
+He utilizado la IA en su mayoria para la correción de errore he imprevistos e incluso para la elaboración del mapa mental.
+
+
+Ejecución del proyecto
+
+Para ejecutar la aplicación desde la terminal:
+
+dotnet run --project Hotel.App/Hotel.App.csproj
+
+La aplicación de consola mostrará las reservas registradas, el ingreso total y la reserva con mayor duración.
+
+Mapa Mental:
+                       SISTEMA DE RESERVAS DE HOTEL
+
+  Análisis                  Diseño                    Implementación
+                                              
+ -Identificar datos        -Clase Reserva             -Biblioteca Hotel.Models
+  de la reserva                                     
+                           -Clase Hotel               -Aplicación Hotel.App
+ -Cliente                                            
+ -Fecha ingreso            -Lista de reservas         -Método Main()
+ -Fecha salida                                      
+ -Precio por noche         - Métodos                  -Crear y registrar reservas
+                                 │
+                              -RegistrarReserva()
+                              -ListarReservas()
+                              -CalcularIngresoTotal()
+                              -ReservaMayorDuracion()
+                                  │
+                              Resultados
+                                  │
+                               -Mostrar reservas
+                               -Calcular ingresos
+                               -Mostrar reserva más larga
+
+Serie III
+1. 
+- Inconsistencia en nombres de variables:
+  'Habitacion' vs 'Hbitacion' 
+  'precioPoNoche' debería ser 'precioPorNoche'.
+- El constructor no inicializa todos los campos (Noches y Huespedes).
+- El método estático 'CalcularCosto' usa 'Noches', que no es estático..
+- Posible problema de diseño con la mezcla de lógica y datos sin control.
+
+2.
+- struct: tipo por valor.
+- class: tipo por referencia.
+- struct suele usarse para datos pequeños e inmutables y class permite herencia y mayor flexibilidad.
+- Cambiar a clase evitaría copias innecesarias pero usaría más memoria en heap.
+
+3.
+-Los campos públicos no son recomendados; deberían ser private con propiedades (get/set) ademas el constructor y métodos pueden ser public.
+
+4.
+- No está bien estructurado para escalabilidad podria usar propiedades en lugar de campos públicos, corregir nombres y consistencia, validar datos en el constructor.

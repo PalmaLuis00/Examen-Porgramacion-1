@@ -9,3 +9,4 @@ C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\D
 C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\refint\Hotel.Models.dll
 C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\Hotel.Models.pdb
 C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\ref\Hotel.Models.dll
+C:\Users\Josejuan\Documents\Universidad\Programacion\Examen 0\Hotel.Models\obj\Debug\net10.0\Hotel.Models.sourcelink.json
